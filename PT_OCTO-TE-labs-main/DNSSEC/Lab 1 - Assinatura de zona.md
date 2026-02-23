@@ -187,11 +187,11 @@ mv db.grpX.signed db.grpX.signed.backup
 ```
 3. aumentar o serial no ficheiro de zona não assinado, recarregar BIND e verificar o serial.
 ```
-nano db.grp8
+nano db.grpX
 "4         ; Serial" ----> "5         ; Serial"
 (gravar "Ctrl+o" e sair "Ctrl+x")
 systemctl restart named
-dig @localhost soa grp8.dnssec.lab.dns.pt. +dnssec +short
+dig @localhost soa grpX.dnssec.lab.dns.pt. +dnssec +short
 ```
 
 
