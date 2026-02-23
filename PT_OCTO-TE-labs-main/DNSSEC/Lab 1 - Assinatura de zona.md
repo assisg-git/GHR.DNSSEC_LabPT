@@ -1,6 +1,7 @@
 
 ![[LOGO_ICANN.jpg|400]]![[LOGO_PT.png|300]]
 
+PT_OCTO-TE-labs-main/_img/LOGO_ICANN.jpg
 ------
 ```
 Criado por: Yazid AKANHO
