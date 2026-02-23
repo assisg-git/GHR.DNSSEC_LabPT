@@ -15,6 +15,11 @@ Versão anterior: 2024020400
 ```
 ------
 
+<div style="display: flex; gap: 700px;">
+<img src="https://github.com/assisg-git/GHR.DNSSEC_LabPT/blob/main/PT_OCTO-TE-labs-main/_img/Network-topology.png" alt="ICANN" style="width: 40%;"/>
+
+</div>
+
 
 Durante este exercício vamos apenas aceder ao seguinte equipamento:
 	* **grpX-soa**: servidores autoritativos escondidos (primário)
