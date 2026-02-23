@@ -16,7 +16,7 @@ Versão anterior: 2024020400
 ------
 
 <div style="display: flex; gap: 700px;">
-<img src="https://github.com/assisg-git/GHR.DNSSEC_LabPT/blob/main/PT_OCTO-TE-labs-main/_img/grp_network_map.png" alt="ICANN" style="width: 40%;"/>
+<img src="https://github.com/assisg-git/GHR.DNSSEC_LabPT/blob/main/PT_OCTO-TE-labs-main/_img/grp_network_map.png" alt="ICANN" style="width: 100%;"/>
 
 </div>
 
