@@ -182,9 +182,6 @@ file "/var/lib/bind/zones/db.grpX.signed"; ---> "/var/lib/bind/zones/db.grpX";
 ```
 2. fazer backup do ficheiro de zona assinado (.signed) e eliminar o ficheiro de zona .signed (BIND criará o seu próprio ficheiro de zona assinado no próximo passo)
 ```
-nano /etc/bind/named.conf.local
-file "/var/lib/bind/zones/db.grpX.signed"; ---> "/var/lib/bind/zones/db.grpX";
-(gravar "Ctrl+o" e sair "Ctrl+x")
 cd /var/lib/bind/zones/
 mv db.grpX.signed db.grpX.signed.backup
 ```
